@@ -1,0 +1,8 @@
+1. buat virtual environment, namanya "mini-project-cv" pakai python 3.10 di Anaconda Navigator/Prompt
+2. download file zip nya, terus extract
+3. copy path folder "mini-project", terus di paste di command prompt
+4. activate environmentnya di command prompt
+5. install requirements.txt
+6. jalanin file virtual-background.py
+7. masing-masing screenshot hasil 1 capture background + 1 capture efek blurnya ke WA grup ya bua
+8. klik ctrl+c di command prompt buat stop capturenya
